@@ -1,6 +1,6 @@
 # Ceaser-Cipher
-#### This is an application for CeaserCipher encryption, 1/10/2018
-#### By **Abdulfatah Mohamed**
+#### This is an application for CeaserCipher encryption,30/07/2021
+#### By **Brian Kulei**
 ![ReadmeImg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/1200px-Caesar_cipher_left_shift_of_3.svg.png "Optional title")
 ## Description
 This is application is called Ceaser Cipher. It encrypts letters by substitution method. It substitutes a letter with a certain shiftIndex. 
@@ -24,9 +24,9 @@ There are no known bugs for this web application
 * Java
 * Intellij IDE
 ## Support and contact details
-For more information call +254789268466 or Email me fertahrez@gmail.com
+For more information call +254725255473 or Email me briankulei98@gmail.com
 
 ## LICENSE
 Inorder to get license click [HERE](LICENSE)
 
-Copyright (c) {2018} **Abdulfatah**
+Copyright (c) {2021} **Brian Kulei**
