@@ -14,7 +14,7 @@ output: b
 * Install an editor or IDE of your preference
 * Install gradle for java
 
-##Database
+## Database
 There is no database or server setup for this code hence it should be smooth and easy to use.
 
 ## Known Bugs
